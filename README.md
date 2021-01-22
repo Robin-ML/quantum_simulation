@@ -1,7 +1,6 @@
 # 
-Spectral Solver for Schrodinger-Poisson Quantum System
 
-## Create Your Own Quantum Mechanics Simulation (With Python)
+## Spectral Solver for Schrodinger-Poisson Quantum System
 
 Simulate the Schrodinger-Poisson system with the Spectral Method
 
