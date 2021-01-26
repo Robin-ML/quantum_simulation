@@ -8,7 +8,7 @@ A spectral method is a technique used in applied mathematics and scientific comp
 Simulate the Schrodinger-Poisson system with the Spectral Method
 
 ```
-python quantumspectral.py
+python quantum_spectral.py
 ```
 
 Schrodinger-Poisson solver to visualize the simulation in real time
