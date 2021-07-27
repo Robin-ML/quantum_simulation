@@ -11,5 +11,7 @@ Simulate the Schrodinger-Poisson system with the Spectral Method
 python quantum_spectral.py
 ```
 
+The simulation simply places a few random Gaussian-shaped overdensities in a periodic 2D box and lets it evolve under self-gravity. The structures are attracted towards each other by gravity, and exhibit wavelike fluctuations.
+
 Schrodinger-Poisson solver to visualize the simulation in real time
 ![Simulation](.assets/quantumspectral.png)
