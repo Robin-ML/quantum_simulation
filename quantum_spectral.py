@@ -7,8 +7,6 @@ import matplotlib.pyplot as plt
 def main():
 	""" Quantum simulation 
 	
-	Create Your Own Quantum Mechanics Simulation (With Python)
-
     Simulate the Schrodinger-Poisson system with the Spectral method
 	
 	"""
